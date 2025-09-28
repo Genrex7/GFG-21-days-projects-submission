@@ -4,3 +4,4 @@
 2. Day-2: Cracking the code - An inside look at the Netflix's content strategy
 3. Day-3: Predicting housing market trends with AI
 4. Day-4: AI in healthcare: Building a life saving heart disease predictor
+5. Day-5: Smart Segmentation: Unlocking Customer Personas with Al
